@@ -8,7 +8,7 @@
 	<h1 style="color: black; font-size: 40px;" align="center">THIS IS OUR JENKINS CI/CD</h1>
 	<h2>WELCOME TO DEVOPS CLASS</h2>
 	<h1 style="color: blue; font-size: 40px;" align="center">THIS IS THE LAST VERSION OF OUR APP</h1>
-	<h1 style="color: pink; font-size: 40px;" align="center">This is Kathyayani I am Devops Engineer</h1>
+	<h1 style="color: pink; font-size: 40px;" align="center">THIS IS KATHYAYANI I AM DEVOPS ENGINEER</h1>
 	
 	
 	
