@@ -6,8 +6,6 @@
 	
 	<h1 style="color: pink; font-size: 40px;" align="center">THIS IS KATHYAYANI I AM ONE DEVOPS ENGINEER</h1>
 	<h1 style="color: yellow; font-size: 40px;" align="center">THIS IS KATHYAYANI I AM ONE DEVOPS ENGINEER</h1>
-	<h1 style="color: green; font-size: 40px;" align="center">THIS IS KATHYAYANI I AM ONE DEVOPS ENGINEER</h1>
-	
 	
 	
 	
